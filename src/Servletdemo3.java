@@ -10,7 +10,7 @@ import java.io.IOException;
 public class Servletdemo3 extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        System.out.println("ytyt");
+        System.out.println("fghfgfhdfgdfg");
     }
 //    用浏览器访问的
 
